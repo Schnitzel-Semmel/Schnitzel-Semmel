@@ -1,9 +1,10 @@
 # About me
 
 
-## GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schnitzel-Semmel&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schnitzel-Semmel&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schnitzel-Semmel&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schnitzel-Semmel&theme=github_dark" />
+</p>
 
 
 
