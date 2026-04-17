@@ -1,26 +1,25 @@
 <h1 align="center">Hello, I'm Pedro!</h1>
 
 <p align="center">
-I'm a developer focused on learning, building and improving web applications.
+I'm a web developer focused on building functional, organized and user-centered applications.
 </p>
 
 <p align="center">
-I like turning ideas into functional projects and improving systems step by step through practice.
-My main interests are web development, clean interfaces and creating solutions that are useful in real life.
-I'm always looking to evolve as a developer and strengthen my knowledge through hands-on projects.
+I am constantly improving my technical skills through practical projects, with special interest in web development, system organization and accessible interfaces.
+My goal is to create solutions that are reliable, efficient and meaningful for real users, while continuing to grow as a developer with each new challenge.
 </p>
 
-<h2 align="center">Languages:</h2>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
-Java, JavaScript, Python, HTML and CSS
+  <img alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
-<h2 align="center">Back-end:</h2>
-
-<p align="center">
-MySQL
-</p>
 
 
 
